@@ -1,0 +1,18 @@
+{
+  "option_operagx_version": "0.0.0.0",
+  "option_operagx_next_version": "0.0.0.1",
+  "option_operagx_game_name": "cly",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_scale": 0,
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_display_cursor": true,
+  "option_operagx_guid": "186938b6-0fb2-4566-8fc8-1e531c861370",
+  "option_operagx_team_name": "(502cdeea-b367-4eba-9d85-65fb4f0622d9) studio",
+  "option_operagx_editUrl": "https://dc.gxc.gg/home/games/game/186938b6-0fb2-4566-8fc8-1e531c861370/edit",
+  "option_operagx_internalShareUrl": "",
+  "option_operagx_publicShareUrl": "",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "tags": [],
+  "resourceType": "GMOperaGXOptions",
+}
